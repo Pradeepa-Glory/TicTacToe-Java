@@ -25,7 +25,7 @@ This project allows two players to play against each other on a 3x3 grid.
 
 ## How to Run
 
-### Compile
 ```bash
 javac TicTacToe.java
+java TicTacToe
 
